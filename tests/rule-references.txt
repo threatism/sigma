@@ -64,6 +64,7 @@ https://admx.help/HKLM/SOFTWARE/Policies/Microsoft/Windows%20NT/Terminal%20Servi
 https://admx.help/HKLM/Software/Policies/Mozilla/Firefox/DNSOverHTTPS
 https://adsecurity.org/?p=1714
 https://adsecurity.org/?p=1772
+https://adsecurity.org/?p=1785
 https://adsecurity.org/?p=2053
 https://adsecurity.org/?p=2277
 https://adsecurity.org/?p=2288
@@ -946,6 +947,7 @@ https://github.com/elastic/detection-rules/blob/c76a39796972ecde44cb1da6df47f1b6
 https://github.com/elastic/detection-rules/blob/da3852b681cf1a33898b1535892eab1f3a76177a/rules/integrations/azure/defense_evasion_kubernetes_events_deleted.toml
 https://github.com/elastic/detection-rules/blob/dd224fb3f81d0b4bf8593c5f02a029d647ba2b2d/rules/windows/credential_access_relay_ntlm_auth_via_http_spoolss.toml
 https://github.com/elastic/detection-rules/blob/fb6ee2c69864ffdfe347bf3b050cb931f53067a6/rules/windows/privilege_escalation_krbrelayup_suspicious_logon.toml
+https://github.com/elastic/detection-rules/blob/main/rules/integrations/aws/defense_evasion_guardduty_detector_deletion.toml
 https://github.com/elastic/detection-rules/blob/main/rules/integrations/aws/initial_access_via_system_manager.toml
 https://github.com/elastic/detection-rules/blob/v8.6.0/rules/integrations/aws/initial_access_via_system_manager.toml
 https://github.com/elastic/detection-rules/issues/1371
@@ -1038,6 +1040,7 @@ https://github.com/Hackndo/lsassy/blob/14d8f8ae596ecf22b449bfe919829173b8a07635/
 https://github.com/Hackplayers/evil-winrm
 https://github.com/Hackplayers/evil-winrm/blob/7514b055d67ec19836e95c05bd63e7cc47c4c2aa/evil-winrm.rb
 https://github.com/hacksysteam/HackSysExtremeVulnerableDriver
+https://github.com/HackTricks-wiki/hacktricks/blob/e4c7b21b8f36c97c35b7c622732b38a189ce18f7/src/windows-hardening/windows-local-privilege-escalation/privilege-escalation-with-autorun-binaries.md
 https://github.com/hackvens/CoercedPotato
 https://github.com/hannob/apache-uaf/blob/da40f2be3684c8095ec6066fa68eb5c07a086233/README.md
 https://github.com/harleyQu1nn/AggressorScripts
@@ -1290,6 +1293,7 @@ https://github.com/redcanaryco/atomic-red-team/blob/5c1e6f1b4fafd01c8d1ece85f510
 https://github.com/redcanaryco/atomic-red-team/blob/5c1e6f1b4fafd01c8d1ece85f510160fc1275fbf/atomics/T1546.008/T1546.008.md
 https://github.com/redcanaryco/atomic-red-team/blob/5c1e6f1b4fafd01c8d1ece85f510160fc1275fbf/atomics/T1562.001/T1562.001.md
 https://github.com/redcanaryco/atomic-red-team/blob/5c3b23002d2bbede3c07e7307165fc2a235a427d/atomics/T1564.004/T1564.004.md#atomic-test-5---create-hidden-directory-via-index_allocation
+https://github.com/redcanaryco/atomic-red-team/blob/5f866ca4517e837c4ea576e7309d0891e78080a8/atomics/T1040/T1040.md#atomic-test-16---powershell-network-sniffing
 https://github.com/redcanaryco/atomic-red-team/blob/73fcfa1d4863f6a4e17f90e54401de6e30a312bb/atomics/T1112/T1112.md#atomic-test-3---modify-registry-to-store-logon-credentials
 https://github.com/redcanaryco/atomic-red-team/blob/74438b0237d141ee9c99747976447dc884cb1a39/atomics/T1505.005/T1505.005.md
 https://github.com/redcanaryco/atomic-red-team/blob/74438b0237d141ee9c99747976447dc884cb1a39/atomics/T1547.015/T1547.015.md#atomic-test-1---persistence-by-modifying-windows-terminal-profile
@@ -1957,6 +1961,7 @@ https://learn.microsoft.com/en-us/entra/identity/monitoring-health/reference-aud
 https://learn.microsoft.com/en-us/graph/api/resources/riskdetection?view=graph-rest-1.0
 https://learn.microsoft.com/en-us/iis/configuration/system.applicationhost/sites/sitedefaults/logfile/
 https://learn.microsoft.com/en-us/iis/get-started/introduction-to-iis/iis-modules-overview
+https://learn.microsoft.com/en-us/iis/manage/provisioning-and-managing-iis/configure-logging-in-iis
 https://learn.microsoft.com/en-us/microsoft-365/compliance/alert-policies?view=o365-worldwide
 https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/troubleshoot-microsoft-defender-antivirus?view=o365-worldwide
 https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/troubleshoot-microsoft-defender-antivirus?view=o365-worldwide#event-id-5001
@@ -2022,6 +2027,7 @@ https://learn.microsoft.com/en-us/powershell/module/storage/mount-diskimage?view
 https://learn.microsoft.com/en-us/powershell/scripting/developer/module/understanding-a-windows-powershell-module?view=powershell-7.3
 https://learn.microsoft.com/en-us/previous-versions/dotnet/framework/data/wcf/generating-the-data-service-client-library-wcf-data-services
 https://learn.microsoft.com/en-us/previous-versions/dotnet/framework/data/wcf/how-to-add-a-data-service-reference-wcf-data-services
+https://learn.microsoft.com/en-us/previous-versions/dotnet/framework/data/wcf/wcf-data-service-client-utility-datasvcutil-exe
 https://learn.microsoft.com/en-us/previous-versions/dotnet/framework/data/xml/xslt/xslt-stylesheet-scripting-using-msxsl-script
 https://learn.microsoft.com/en-us/previous-versions/office/troubleshoot/office-developer/automate-word-create-file-using-visual-basic
 https://learn.microsoft.com/en-us/previous-versions/windows/desktop/legacy/aa394225(v=vs.85)
@@ -2045,6 +2051,7 @@ https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-10/se
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-2000-server/cc959352(v=technet.10)
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-2000-server/cc960241(v=technet.10)?redirectedfrom=MSDN
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-r2-and-2008/dd348773(v=ws.10)
+https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-r2-and-2008/dd364427(v=ws.10)
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/cc731033(v=ws.11)
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/cc731620(v=ws.11)
 https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/cc742107(v=ws.11)
@@ -2169,6 +2176,7 @@ https://learn.microsoft.com/en-us/windows/win32/winrm/windows-remote-management-
 https://learn.microsoft.com/en-us/windows/win32/wmisdk/connecting-to-wmi-remotely-starting-with-vista
 https://learn.microsoft.com/en-us/windows/win32/wmisdk/mofcomp
 https://learn.microsoft.com/en-us/windows/wsl/install-on-server
+https://learn.microsoft.com/fr-fr/windows-server/administration/windows-commands/fsutil-behavior
 https://learn.microsoft.com/pt-br/windows/win32/secauthz/sid-strings
 https://liberty-shell.com/sec/2020/02/25/shim-persistence/
 https://linux-audit.com/systemd/faq/what-is-the-difference-between-systemctl-disable-and-systemctl-mask/
@@ -2328,6 +2336,7 @@ https://malware.news/t/the-rhysida-ransomware-activity-analysis-and-ties-to-vice
 https://man.freebsd.org/cgi/man.cgi?pwd_mkdb
 https://man.openbsd.org/ssh_config#LocalCommand
 https://man.openbsd.org/ssh_config#ProxyCommand
+https://man7.org/linux/man-pages/man1/dmesg.1.html
 https://man7.org/linux/man-pages/man1/ncat.1.html
 https://man7.org/linux/man-pages/man1/passwd.1.html
 https://man7.org/linux/man-pages/man2/mknod.2.html
@@ -2492,6 +2501,7 @@ https://onapsis.com/blog/active-exploitation-of-sap-vulnerability-cve-2025-31324
 https://onedrive.live.com/view.aspx?resid=D026B4699190F1E6!2843&ithint=file%2cpptx&app=PowerPoint&authkey=!AMvCRTKB_V1J5ow
 https://opencanary.readthedocs.io/en/latest/starting/configuration.html#services-configuration
 https://outflank.nl/blog/2018/01/16/hunting-for-evil-detect-macros-being-executed/
+https://outpost24.com/blog/crushftp-auth-bypass-vulnerability/
 https://owasp.org/www-community/vulnerabilities/Expression_Language_Injection
 https://owasp.org/www-community/vulnerabilities/XML_External_Entity_(XXE)_Processing
 https://owasp.org/www-pdf-archive/Shellshock_-_Tudor_Enache.pdf
@@ -2542,6 +2552,7 @@ https://persistence-info.github.io/Data/windowsterminalprofile.html
 https://persistence-info.github.io/Data/wpbbin.html
 https://peterjson.medium.com/reproducing-the-proxyshell-pwn2own-exploit-49743a4ea9a1
 https://petrusviet.medium.com/dancing-on-the-architecture-of-vmware-workspace-one-access-eng-ad592ae1b6dd
+https://ponderthebits.com/2018/02/windows-rdp-related-event-logs-identification-tracking-and-investigation/
 https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-0708
 https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2019-1388
 https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-1472
@@ -2574,6 +2585,7 @@ https://processhacker.sourceforge.io/
 https://projectdiscovery.io/blog/crushftp-authentication-bypass
 https://promos.mcafee.com/en-US/PDF/MTMW_Report.pdf
 https://pub-7cb8ac806c1b4c4383e585c474a24719.r2.dev/116309e7121bc8b0e66e4166c06f7b818e1d3629.pdf
+https://pwn.guide/free/web/crushftp
 https://pypi.org/project/scapy/
 https://ragged-lab.blogspot.com/2020/06/capturing-pcap-driver-installations.html#more
 https://ragged-lab.blogspot.com/2020/07/webshells-automating-reconnaissance.html
@@ -2692,6 +2704,7 @@ https://securelist.com/operation-triangulation/109842/
 https://securelist.com/operation-tunnelsnake-and-moriya-rootkit/101831
 https://securelist.com/scarcruft-surveilling-north-korean-defectors-and-human-rights-activists/105074/
 https://securelist.com/schroedingers-petya/78870/
+https://securelist.com/sidewinder-apt/114089/
 https://securelist.com/the-epic-turla-operation/65545/
 https://securelist.com/the-tetrade-brazilian-banking-malware/97779/
 https://securelist.com/to-crypt-or-to-mine-that-is-the-question/86307/
@@ -2835,6 +2848,7 @@ https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/solarwi
 https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/ukraine-wiper-malware-russia
 https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/yanluowang-ransomware-attacks-continue
 https://symantec-enterprise-blogs.security.com/threat-intelligence/harvester-new-apt-attacks-asia
+https://sysdig.com/blog/detecting-and-mitigating-cve-2024-12084-rsync-remote-code-execution/
 https://sysdig.com/blog/mitre-defense-evasion-falco
 https://systeminformer.sourceforge.io/
 https://t.co/ezOTGy1a1G
@@ -3657,6 +3671,7 @@ https://www.elastic.co/security-labs/operation-bleeding-bear
 https://www.elastic.co/security-labs/stopping-vulnerable-driver-attacks
 https://www.elevenforum.com/t/video-guide-how-to-completely-disable-microsoft-defender-antivirus.14608/page-2
 https://www.embercybersecurity.com/blog/cve-2019-1378-exploiting-an-access-control-privilege-escalation-vulnerability-in-windows-10-update-assistant-wua
+https://www.endorlabs.com/learn/shai-hulud-2-malware-campaign-targets-github-and-cloud-credentials-using-bun-runtime
 https://www.epicturla.com/blog/sysinturla
 https://www.experts-exchange.com/questions/27800944/EventID-18456-Failed-to-open-the-explicitly-specified-database.html
 https://www.exploit-db.com/exploits/19525
@@ -3835,6 +3850,7 @@ https://www.matteomalvica.com/blog/2019/12/02/win-defender-atp-cred-bypass/
 https://www.mcafee.com/blogs/other-blogs/mcafee-labs/zloader-with-a-new-infection-technique/
 https://www.mdeditor.tw/pl/pgRt
 https://www.mdsec.co.uk/2018/06/exploring-powershell-amsi-and-logging-evasion/
+https://www.mdsec.co.uk/2019/02/macros-and-more-with-sharpshooter-v2-0/
 https://www.mdsec.co.uk/2020/09/i-like-to-move-it-windows-lateral-movement-part-1-wmi-event-subscription/
 https://www.mdsec.co.uk/2020/11/a-fresh-outlook-on-mail-based-persistence/
 https://www.mdsec.co.uk/2022/10/analysing-lastpass-part-1/
@@ -3855,6 +3871,7 @@ https://www.microsoft.com/en-us/security/blog/2024/01/17/new-ttps-observed-in-mi
 https://www.microsoft.com/en-us/security/blog/2024/04/22/analyzing-forest-blizzards-custom-post-compromise-tool-for-exploiting-cve-2022-38028-to-obtain-credentials/
 https://www.microsoft.com/en-us/security/blog/2024/07/29/ransomware-operators-exploit-esxi-hypervisor-vulnerability-for-mass-encryption/
 https://www.microsoft.com/en-us/security/blog/2024/10/29/midnight-blizzard-conducts-large-scale-spear-phishing-campaign-using-rdp-files/
+https://www.microsoft.com/en-us/security/blog/2025/07/22/disrupting-active-exploitation-of-on-premises-sharepoint-vulnerabilities/
 https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2023/03/Figure-7-sample-webdav-process-create-event.png
 https://www.microsoft.com/en-us/wdsi/threats/malware-encyclopedia-description?name=TrojanSpy%3aMSIL%2fHakey.A
 https://www.microsoft.com/security/blog/2017/10/23/windows-defender-exploit-guard-reduce-the-attack-surface-against-next-generation-malware/
@@ -3891,6 +3908,7 @@ https://www.mitiga.io/blog/mitiga-security-advisory-abusing-the-ssm-agent-as-a-r
 https://www.myantispyware.com/2020/12/14/how-to-uninstall-onelaunch-browser-removal-guide/
 https://www.n00py.io/2021/05/dumping-plaintext-rdp-credentials-from-svchost-exe/
 https://www.n00py.io/2022/03/manipulating-user-passwords-without-mimikatz/
+https://www.nccgroup.com/us/research-blog/lapsus-recent-techniques-tactics-and-procedures/
 https://www.nccgroup.trust/uk/about-us/newsroom-and-events/blogs/2018/november/turla-png-dropper-is-back/
 https://www.ncsc.gov.uk/static-assets/documents/malware-analysis-reports/cold-steel/NCSC-MAR-Cold-Steel.pdf
 https://www.ncsc.gov.uk/static-assets/documents/malware-analysis-reports/devil-bait/NCSC-MAR-Devil-Bait.pdf
@@ -4023,6 +4041,7 @@ https://www.splunk.com/en_us/blog/security/darkside-ransomware-splunk-threat-upd
 https://www.splunk.com/en_us/blog/security/follina-for-protocol-handlers.html
 https://www.splunk.com/en_us/blog/security/inno-setup-malware-redline-stealer-campaign.html
 https://www.sprocketsecurity.com/resources/crossing-the-log4j-horizon-a-vulnerability-with-no-return
+https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan
 https://www.swascan.com/cactus-ransomware-malware-analysis/
 https://www.sygnia.co/golden-saml-advisory
 https://www.symantec.com/blogs/threat-intelligence/thrip-hits-satellite-telecoms-defense-targets
@@ -4265,6 +4284,7 @@ https://www.zerodayinitiative.com/blog/2019/11/19/thanksgiving-treat-easy-as-pie
 https://www.zerodayinitiative.com/blog/2021/8/30/proxytoken-an-authentication-bypass-in-microsoft-exchange-server
 https://www.zerodayinitiative.com/blog/2023/4/21/tp-link-wan-side-vulnerability-cve-2023-1389-added-to-the-mirai-botnet-arsenal
 https://www.zoocoup.org/casper/jamf_cheatsheet.pdf
+https://www.zscaler.com/blogs/security-research/deepseek-lure-using-captchas-spread-malware
 https://www.zscaler.com/blogs/security-research/ffdroider-stealer-targeting-social-media-platform-users
 https://www.zscaler.com/blogs/security-research/new-espionage-attack-molerats-apt-targeting-users-middle-east
 https://www.zscaler.com/blogs/security-research/onenote-growing-threat-malware-distribution
